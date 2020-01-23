@@ -1,25 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Screen Shot 2020-01-22 at 10.05.31 PM.png
+title: Hurricane dodger
+permalink: projects/Hurricane
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-10-25
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+summary: A game where you play as a shark and avoid the moving hurricane made in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+# <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In ICS 211 I made a game where you control a shark using the WASD keys.  The objective of the game is to survive there is a food and thirst counter moving and getting hit by the hurricane will deplet these you can collect the musubi and water drops to increase your food and thirst.   
