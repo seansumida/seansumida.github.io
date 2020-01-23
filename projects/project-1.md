@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cubbies.jpeg
 title: Cubbies
-permalink: projects/micromouse
+permalink: projects/cubbies
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-07
 labels:
