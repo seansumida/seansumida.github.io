@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How To Ask Questions
+title: Why do we need Coding Standards?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
