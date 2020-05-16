@@ -21,4 +21,4 @@ My contribution to the app was the to make the page that dispalyed the buildings
 <img class="ui medium right floated rounded image" src="../images/page.png">
 <img class="ui medium right floated rounded image" src="../images/edit.png">
 
-If you want to check out our project click ["here"](https://github.com/uh-waterfountain).
+If you want to check out our project click [here](https://github.com/uh-waterfountain).
