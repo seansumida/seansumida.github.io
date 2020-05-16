@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/water.png
-title: Recursive Sudoku Solver
-permalink: projects/sudokusolver
+title: Water Connoisseur
+permalink: projects/WaterConnoisseur
 # All dates must be YYYY-MM-DD format!
-date: 2019-03-15
+date: 2020-05-15
 labels:
-  - Lisp
+  - ICS 314
   - GitHub
-summary: Made a recursive sudoku solver for ics 211.
+summary: Made an app to review water fountains with my group for ICS 314.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/water.png">
